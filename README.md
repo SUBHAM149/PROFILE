@@ -1,9 +1,18 @@
 
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0047FF&height=220&section=header&text=Subham%20Behera&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20🚀&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0047FF,100:8A2BE2&height=250&section=header&text=Subham%20Behera&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20🚀&descAlignY=60&descSize=20" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Frontend+%2B+Backend+Developer;Passionate+Programmer+🚀;Welcome+to+My+GitHub+Profile+🔥" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Building+Modern+Responsive+Websites;Passionate+Programmer+%F0%9F%94%A5;Always+Learning+New+Technologies+%F0%9F%9A%80;Welcome+To+My+GitHub+Profile+%E2%9C%A8" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=SUBHAM149&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/SUBHAM149?style=for-the-badge&logo=github&color=00F7FF" />
+
+<img src="https://img.shields.io/github/stars/SUBHAM149?style=for-the-badge&logo=github&color=FFD700" />
 
 </div>
 
@@ -17,39 +26,50 @@
 
 </div>
 
-- 🔭 Currently working on **Java Full Stack Development**
-- 🌱 Learning **Spring Boot, React & Advanced Java**
-- 💻 Passionate about **Web Development**
-- ⚡ Love creating **modern responsive websites**
-- 🎯 Goal: Become a successful **Software Engineer**
-- 💬 Ask me about **Java, React, Spring Boot, MySQL**
-- 📚 Learning from **Naresh i Technologies**
+### 👨‍💻 Who Am I?
+
+- 🔭 Working on **Full Stack Java Projects**
+- 🌱 Currently learning **Spring Boot, React & Microservices**
+- 💡 Interested in **Frontend + Backend Development**
+- ⚡ Love creating **Premium UI Designs**
+- 🎯 Goal: Become a **Top Software Engineer**
+- 🚀 Exploring **Modern Web Technologies**
+- 💬 Ask me about **Java, SQL, Spring Boot, React**
+- 📚 Student at **Naresh i Technologies**
+
+<br><br>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/SUBHAM149">
-    <img src="https://skillicons.dev/icons?i=github" height="50"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://github.com/SUBHAM149">
+<img src="https://skillicons.dev/icons?i=github" height="60"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="60"/>
+</a>
+
+<a href="https://instagram.com">
+<img src="https://skillicons.dev/icons?i=instagram" height="60"/>
+</a>
+
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+# 🚀 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,spring,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,spring,mysql,git,github,vscode,maven,bootstrap" />
 
 </div>
 
@@ -59,54 +79,67 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SUBHAM149&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SUBHAM149&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img src="https://streak-stats.demolab.com?user=SUBHAM149&theme=tokyonight&hide_border=true" height="180"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHAM149&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHAM149&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </div>
-
----
-
-# 🔥 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SUBHAM149&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://streak-stats.demolab.com?user=SUBHAM149&theme=tokyonight&hide_border=true&background=00000000" />
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SUBHAM149&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SUBHAM149&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
 ---
 
-# ✨ Featured Skills
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-| Frontend | Backend | Database | Tools |
-|---------|---------|----------|-------|
-| HTML | Java | MySQL | Git |
-| CSS | Spring Boot | JDBC | GitHub |
-| JavaScript | Advanced Java | SQL | VS Code |
-| React | REST API |  | Maven |
+<img src="https://github-profile-trophy.vercel.app/?username=SUBHAM149&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" />
 
 </div>
 
 ---
 
-# ✍️ Random Dev Quote
+# ⚡ Featured Skills
+
+<div align="center">
+
+| 💻 Frontend | ⚙️ Backend | 🛢️ Database | 🛠️ Tools |
+|-------------|------------|-------------|-----------|
+| HTML5 | Java | MySQL | Git |
+| CSS3 | Spring Boot | Oracle SQL | GitHub |
+| JavaScript | JDBC | MongoDB | VS Code |
+| React JS | REST APIs | PostgreSQL | Maven |
+| Bootstrap | Hibernate | Firebase | Postman |
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# ✨ Random Dev Quote
 
 <div align="center">
 
@@ -116,11 +149,25 @@
 
 ---
 
-# 👀 Profile Views
+# 🎵 Spotify Playing
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SUBHAM149&label=Profile%20Views&color=00f7ff&style=for-the-badge" />
+<img src="https://novatorem.vercel.app/api/spotify" />
+
+</div>
+
+---
+
+# 🔥 Fun Fact
+
+<div align="center">
+
+```diff
++ I love building cool websites 🚀
++ Coffee + Coding = Perfect Combo ☕
++ Always learning new technologies 💡
+````
 
 </div>
 
@@ -128,10 +175,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047FF,100:00F7FF&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:0047FF,100:00F7FF&height=150&section=footer" />
 
-### ✨ Thanks for visiting my profile ✨  
-### ⭐ Check out my repositories
+# ✨ Thanks For Visiting My Profile ✨
+
+### ⭐ Don't Forget To Follow & Star Repositories ⭐
 
 </div>
 
+```
+```
