@@ -1,111 +1,137 @@
-<!-- 💻 GITHUB PROFILE README FOR SUBHAM BEHERA (Professional + Programmer GIF) -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#00bfff;">SUBHAM BEHERA</span></h1>
-<h3 align="center">💻 Java Full Stack Developer</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0047FF&height=220&section=header&text=Subham%20Behera&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20🚀&descAlignY=58&descSize=18" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Frontend+%2B+Backend+Developer;Passionate+Programmer+🚀;Welcome+to+My+GitHub+Profile+🔥" />
+
+</div>
+
+---
+
+# 💫 About Me
+
+<div align="center">
+
+<img width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
+</div>
+
+- 🔭 Currently working on **Java Full Stack Development**
+- 🌱 Learning **Spring Boot, React & Advanced Java**
+- 💻 Passionate about **Web Development**
+- ⚡ Love creating **modern responsive websites**
+- 🎯 Goal: Become a successful **Software Engineer**
+- 💬 Ask me about **Java, React, Spring Boot, MySQL**
+- 📚 Learning from **Naresh i Technologies**
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="400px" alt="Man typing GIF">
+  <a href="https://github.com/SUBHAM149">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me  
-💼 Full Stack Developer specializing in **Java, Spring Boot, React, and MySQL**  
-🎯 Dedicated to building **scalable, efficient, and user-friendly applications**  
-📚 Passionate about continuous learning in **Web Development & DevOps**  
-⚡ Fun Fact: I can turn caffeine ☕ into clean code!  
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,spring,mysql,git,github,vscode" />
+
+</div>
 
 ---
 
-### ⚙️ Tech Stack  
+# 📊 GitHub Analytics
 
-**Frontend:**  
-![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+<div align="center">
 
-**Backend:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=SUBHAM149&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-**Database:**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+<img src="https://streak-stats.demolab.com?user=SUBHAM149&theme=tokyonight&hide_border=true" height="180"/>
 
-**Tools & DevOps:**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHAM149&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
 
 ---
 
-### 💻 Featured Projects  
+# 🔥 Contribution Graph
 
-| Project | Description | Tech Stack | Demo |
-|----------|--------------|-------------|------|
-| 🛍️ **E-Shopper** | Full stack e-commerce website with authentication, product management, and cart system. | Java, Spring Boot, React, MySQL | [🎥 Watch Demo](#) |
-| 📚 **Student Management System** | CRUD app for managing students and courses. | Java, Spring Boot, Thymeleaf, MySQL | [🎥 Watch Demo](#) |
-| 💬 **ChatApp** | Real-time messaging app using WebSocket. | Java, Spring Boot, React | [🎥 Watch Demo](#) |
-| 🧾 **Expense Tracker** | Tracks personal expenses and generates monthly reports. | React, Spring Boot, MongoDB | [🎥 Watch Demo](#) |
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SUBHAM149&theme=tokyo-night&hide_border=true&area=true" />
 
-### 🎬 My Demo Videos  
-🎥 [Portfolio Website Demo](#)  
-🎥 [Spring Boot REST API Project](#)  
-🎥 [Full Stack CRUD App Demo](#)  
-🎥 [Java + React Integration Project](#)  
-
-*(Replace `#` with your YouTube or Loom video links when ready!)*
+</div>
 
 ---
 
-### 🧠 Learning Goals  
-- ☁️ Deploying full stack apps on **AWS / Render / Vercel**  
-- 🧩 Building **Microservices** using Spring Cloud  
-- ⚡ Improving **System Design & Scalability** skills  
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SUBHAM149&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="500px" alt="Programmer working GIF">
-</p>
+# ✨ Featured Skills
+
+<div align="center">
+
+| Frontend | Backend | Database | Tools |
+|---------|---------|----------|-------|
+| HTML | Java | MySQL | Git |
+| CSS | Spring Boot | JDBC | GitHub |
+| JavaScript | Advanced Java | SQL | VS Code |
+| React | REST API |  | Maven |
+
+</div>
 
 ---
 
-### 📊 GitHub Stats  
+# ✍️ Random Dev Quote
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhambehera&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhambehera&layout=compact&theme=radical" width="48%">
-</p>
+<div align="center">
 
----
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-### 📫 Connect with Me  
-
-🌐 **Portfolio:** [subhambehera.dev](#)  
-💼 **LinkedIn:** [linkedin.com/in/subham-behera](#)  
-💻 **GitHub:** [github.com/subhambehera](#)  
-✉️ **Email:** subhambehera@gmail.com  
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subhambehera&color=blueviolet" alt="Profile views" />
-</p>
+# 👀 Profile Views
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Man typing on laptop GIF">
-</p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SUBHAM149&label=Profile%20Views&color=00f7ff&style=for-the-badge" />
+
+</div>
 
 ---
 
-<h3 align="center">⭐ “Code. Learn. Build. Repeat.” ⭐</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047FF,100:00F7FF&height=120&section=footer" />
+
+### ✨ Thanks for visiting my profile ✨  
+### ⭐ Check out my repositories
+
+</div>
+
