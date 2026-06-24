@@ -17,6 +17,21 @@
 </div>
 
 ---
+<details>
+<summary>📚 Click to View My Skills</summary>
+
+<br>
+
+- ☕ Java
+- 🌱 Spring Boot
+- 🗄️ MySQL
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- 🔧 Git & GitHub
+
+</details>
+
 
 # 💫 About Me
 
