@@ -159,15 +159,6 @@
 
 ---
 
-# 🎵 Spotify Playing
-
-<div align="center">
-
-<img src="https://novatorem.vercel.app/api/spotify" />
-
-</div>
-
----
 
 # 🔥 Fun Fact
 
