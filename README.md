@@ -1,5 +1,10 @@
 
 
+<br><br>
+
+<a href="#top">
+  <img src="https://img.shields.io/badge/Back_To_Top-1a1a2e?style=for-the-badge&logo=rocket&logoColor=white&color=0055DA" />
+</a>
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0047FF,100:8A2BE2&height=250&section=header&text=Subham%20Behera&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20🚀&descAlignY=60&descSize=20" />
@@ -181,6 +186,82 @@
 # ✨ Thanks For Visiting My Profile ✨
 
 ### ⭐ Don't Forget To Follow & Star Repositories ⭐
+
+<div align="center" dir="auto">
+
+## 📊 GitHub Statistics
+
+<div align="center" dir="auto">
+
+<img src="https://github-readme-stats.shion.dev/api?username=SUBHAM149&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=010101&title_color=FEC260&text_color=F1F1F1&icon_color=8b949e&show_icons=true" width="32%" />
+<br/>
+<br/>
+<img src="https://streak-stats.demolab.com/?user=SUBHAM149&theme=github-dark&hide_border=true&stroke=white&background=010101&ring=FEC260&fire=FEC260&currStreakNum=FEC260&sideNums=FEC260&currStreakLabel=F1F1F1&sideLabels=F1F1F1&dates=F1F1F1" width="32%" />
+<br/>
+<br/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SUBHAM149&theme=github_dark&hide_border=true&layout=compact&bg_color=010101&title_color=F1F1F1&text_color=8b949e&langs_count=6" width="25%" />
+
+</div>
+
+---
+
+## 🏆 Unlocked Achievements
+
+<div align="center" dir="auto">
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=SUBHAM149&theme=dark_dimmed&no-bg=true&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" width="85%" />
+</div>
+
+<br/>
+
+<div align="center" dir="auto">
+  <code>🏆 TROPHY_CASE: FULL_WIDTH / MAXIMUM_GLORY 🏆</code>
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<br/>
+
+<a href="https://github.com/SUBHAM149">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A"/>
+</a>
+<a href="https://t.me/SUBHAM">
+  <img src="https://img.shields.io/badge/Telegram-FFC81E?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0A0A0A"/>
+</a>
+<a href="https://www.linkedin.com/in/SUBHAM">
+  <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A"/>
+</a>
+<a href="https://www.instagram.com/SUBHAM">
+  <img src="https://img.shields.io/badge/Instagram-FFC81E?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0A0A"/>
+</a>
+<a href="https://SUBHAM149.github.io/About-Me/">
+  <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0A0A"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🟢-Available_for_Work-181717?style=for-the-badge&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/💬-Open_to_Collaboration-FFC81E?style=for-the-badge&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/⚡-Reply_in_Seconds-181717?style=for-the-badge&labelColor=0A0A0A" />
+
+<br/><br/>
+
+</div>
+
+---
+
+<div align="center" dir="auto">
+
+## 👾 PAC-MAN Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HamiParsa/HamiParsa/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
 
 </div>
 
