@@ -1391,7 +1391,11 @@ You can click the Preview link to take a look at your changes.
     
   </a>
 </p>
+<div align="center">
 
+![snake gif](https://raw.githubusercontent.com/SUBHAM149/SUBHAM149/output/github-snake-dark.svg)
+
+</div>
 
 
 <!-- FOOTER ANIMATION (Radical Theme) -->
